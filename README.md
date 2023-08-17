@@ -1,16 +1,3 @@
-# staid
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ #output
+ 
+<img width="177" alt="Group 1000004265" src="https://github.com/Prafullshrivas/Staid_App/assets/142507267/91e96fe7-a281-4609-8b05-9538a81b312b">
